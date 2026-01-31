@@ -22,8 +22,3 @@ Basic Java, C
 ### Contact
 LinkedIn: (https://www.linkedin.com/in/muskan-janghel-a03731326) 
 
-## GitHub Stats
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Muskan-0705&show_icons=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muskan-0705" />
