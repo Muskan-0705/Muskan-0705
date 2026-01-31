@@ -22,3 +22,7 @@ Basic Java, C
 ### Contact
 LinkedIn: (https://www.linkedin.com/in/muskan-janghel-a03731326) 
 
+### Tech Stack
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github" />
+</p>
