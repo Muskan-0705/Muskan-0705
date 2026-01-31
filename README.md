@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi 👋 I'm Muskan Janghel
 
-<!--
-**Muskan-0705/Muskan-0705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech 3rd Year Student  
+💻 Aspiring Full Stack Web Developer  
 
-Here are some ideas to get you started:
+### Tech Stack
+HTML, CSS, JavaScript  
+React, Node.js, Express  
+MongoDB, Git/GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- Online Exam Management System  
+- Portfolio Website  
+- Student Record API  
+
+### Contact
+LinkedIn: (https://www.linkedin.com/in/muskan-janghel-a03731326)
