@@ -24,6 +24,6 @@ LinkedIn: (https://www.linkedin.com/in/muskan-janghel-a03731326)
 
 ## GitHub Stats
 
-![Muskan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muskan-0705&show_icons=true)
+![Muskan's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Muskan-0705&show_icons=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Muskan-0705)
