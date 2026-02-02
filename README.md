@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Muskan Janghel
 
 🎓 B.Tech 3rd Year Student (2027)  
-💻 Aspiring Full Stack Web Developer  
+💻 Aspiring Web Developer  
 
 ### Tech Stack
 HTML, CSS, JavaScript  
@@ -10,10 +10,10 @@ MongoDB, Git/GitHub
 Basic Java, C  
 
 ### Projects
-- Online Exam Management System  
+- Online Exam Management System API 
 - Portfolio Website  
 - Student Record API  
-- Face Recognition System  
+- Civic Pluse Bhilai
 
 ### Currently Learning
 - Advanced React  
